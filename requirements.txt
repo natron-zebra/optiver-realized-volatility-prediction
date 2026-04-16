@@ -1,0 +1,6 @@
+
+pandas[pyarrow]
+torch
+chronos-forecasting
+scikit-learn
+matplotlib

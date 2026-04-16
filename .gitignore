@@ -1,0 +1,9 @@
+# 忽略 Google Drive 自动生成的特殊文件
+*.gsheet
+*.gdoc
+*.gslides
+
+# 忽略数据和缓存
+data/
+__pycache__/
+.ipynb_checkpoints/
